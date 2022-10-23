@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89e4aa8e815cf53458bba9f3742d120d, type: 3}
+  m_Name: Scene2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "Ces homonculus nous ont agress\xE9s sous le laboratoire num\xE9ro 5 et
+      ils nous ont parl\xE9 de la pierre philosophale"
+    speaker: {fileID: 11400000, guid: 100ad9616b34f7f4aa153fcc00095c36, type: 2}
+  - text: "Le laboratoire num\xE9ro 5 faits partie de l'arm\xE9e si une telle chose
+      se produit sous celui-ci alors des hauts plac\xE9s doivent \xEAtre courant
+      de ce qu'il se trame"
+    speaker: {fileID: 11400000, guid: b69c53a0d545ab54e8507cd94de50910, type: 2}
+  - text: "Nous ne pouvons pas laisser ces questions en suspens, il faut mener l'enqu\xEAte"
+    speaker: {fileID: 11400000, guid: 100ad9616b34f7f4aa153fcc00095c36, type: 2}
+  - text: "Avant cela il faudra savoir \xE0 qui nous pouvons faire confiance"
+    speaker: {fileID: 11400000, guid: b69c53a0d545ab54e8507cd94de50910, type: 2}
+  background: {fileID: 21300000, guid: f8a29bb6b53992c40a81a53d4d0a154b, type: 3}
+  nextScene: {fileID: 11400000, guid: 0922903eec2aa8248ae5ace7d2a67421, type: 2}
